@@ -1,0 +1,83 @@
+{ 
+"entries":[
+    {
+        "emojiName": "Smile",
+        "emojiImage": 0,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Super Smile",
+        "emojiImage": 1,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Cry Smile",
+        "emojiImage": 2,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Sad",
+        "emojiImage": 3,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Close Cry",
+        "emojiImage": 4,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Cry",
+        "emojiImage": 5,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Large Cry",
+        "emojiImage": 6,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Shock",
+        "emojiImage": 7,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Side Eye",
+        "emojiImage": 8,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Flat",
+        "emojiImage": 9,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Heart",
+        "emojiImage": 10,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    }
+]
+
+
+}

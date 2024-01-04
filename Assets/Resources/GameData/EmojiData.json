@@ -1,0 +1,466 @@
+{ "entries": [
+    {
+        "emojiName": "Smile",
+        "emojiImage": 0,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Super Smile",
+        "emojiImage": 1,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Cry Smile",
+        "emojiImage": 2,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Sad",
+        "emojiImage": 3,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Close Cry",
+        "emojiImage": 4,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Cry",
+        "emojiImage": 5,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Large Cry",
+        "emojiImage": 6,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Shock",
+        "emojiImage": 7,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Side Eye",
+        "emojiImage": 8,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Flat",
+        "emojiImage": 9,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Heart",
+        "emojiImage": 10,
+        "available": true,
+        "isActive": true,
+        "cost": 0
+    },
+    {
+        "emojiName": "Tired",
+        "emojiImage": 15,
+        "available": false,
+        "isActive": false,
+        "cost": 50
+    },
+    {
+        "emojiName": "Super Shock",
+        "emojiImage": 16,
+        "available": false,
+        "isActive": false,
+        "cost": 100
+    },
+    {
+        "emojiName": "Angry Side-eye",
+        "emojiImage": 17,
+        "available": false,
+        "isActive": false,
+        "cost": 150
+    },
+    {
+        "emojiName": "Up Side-eye",
+        "emojiImage": 18,
+        "available": false,
+        "isActive": false,
+        "cost": 200
+    },
+    {
+        "emojiName": "Woah",
+        "emojiImage": 19,
+        "available": false,
+        "isActive": false,
+        "cost": 250
+    },
+    {
+        "emojiName": "Glasses",
+        "emojiImage": 20,
+        "available": false,
+        "isActive": false,
+        "cost": 300
+    },
+    {
+        "emojiName": "Tongue",
+        "emojiImage": 21,
+        "available": false,
+        "isActive": false,
+        "cost": 350
+    },
+    {
+        "emojiName": "Nerd",
+        "emojiImage": 22,
+        "available": false,
+        "isActive": false,
+        "cost": 400
+    },
+    {
+        "emojiName": "Up Down",
+        "emojiImage": 23,
+        "available": false,
+        "isActive": false,
+        "cost": 450
+    },
+    {
+        "emojiName": "Smug Happy",
+        "emojiImage": 24,
+        "available": false,
+        "isActive": false,
+        "cost": 500
+    },
+    {
+        "emojiName": "Angry",
+        "emojiImage": 25,
+        "available": false,
+        "isActive": false,
+        "cost": 550
+    },
+    {
+        "emojiName": "Blush",
+        "emojiImage": 26,
+        "available": false,
+        "isActive": false,
+        "cost": 600
+    },
+    {
+        "emojiName": "Sorrow",
+        "emojiImage": 27,
+        "available": false,
+        "isActive": false,
+        "cost": 650
+    },
+    {
+        "emojiName": "Mind Blown",
+        "emojiImage": 28,
+        "available": false,
+        "isActive": false,
+        "cost": 700
+    },
+    {
+        "emojiName": "Cold",
+        "emojiImage": 11,
+        "available": false,
+        "isActive": false,
+        "cost": 750
+    },
+    {
+        "emojiName": "Hot",
+        "emojiImage": 12,
+        "available": false,
+        "isActive": false,
+        "cost": 800
+    },
+    {
+        "emojiName": "Devil",
+        "emojiImage": 13,
+        "available": false,
+        "isActive": false,
+        "cost": 850
+    },
+    {
+        "emojiName": "Angel",
+        "emojiImage": 14,
+        "available": false,
+        "isActive": false,
+        "cost": 900
+    },
+    {
+        "emojiName": "Sick",
+        "emojiImage": 29,
+        "available": false,
+        "isActive": false,
+        "cost": 950
+    },
+    {
+        "emojiName": "Hurt",
+        "emojiImage": 30,
+        "available": false,
+        "isActive": false,
+        "cost": 1000
+    },
+    {
+        "emojiName": "Money",
+        "emojiImage": 31,
+        "available": false,
+        "isActive": false,
+        "cost": 1050
+    },
+    {
+        "emojiName": "Cross",
+        "emojiImage": 32,
+        "available": false,
+        "isActive": false,
+        "cost": 1100
+    },
+    {
+        "emojiName": "Sleepy",
+        "emojiImage": 33,
+        "available": false,
+        "isActive": false,
+        "cost": 1150
+    },
+    {
+        "emojiName": "Green Sick",
+        "emojiImage": 35,
+        "available": false,
+        "isActive": false,
+        "cost": 1200
+    },
+    {
+        "emojiName": "Tongue Eye",
+        "emojiImage": 36,
+        "available": false,
+        "isActive": false,
+        "cost": 1250
+    },
+    {
+        "emojiName": "Zipped",
+        "emojiImage": 37,
+        "available": false,
+        "isActive": false,
+        "cost": 1300
+    },
+    {
+        "emojiName": "Monocle",
+        "emojiImage": 38,
+        "available": false,
+        "isActive": false,
+        "cost": 1350
+    },
+    {
+        "emojiName": "Dead Cross",
+        "emojiImage": 39,
+        "available": false,
+        "isActive": false,
+        "cost": 1400
+    },
+    {
+        "emojiName": "Blowing Kiss",
+        "emojiImage": 40,
+        "available": false,
+        "isActive": false,
+        "cost": 1450
+    },
+    {
+        "emojiName": "Throw-Up",
+        "emojiImage": 41,
+        "available": false,
+        "isActive": false,
+        "cost": 1500
+    },
+    {
+        "emojiName": "Nervous",
+        "emojiImage": 42,
+        "available": false,
+        "isActive": false,
+        "cost": 1550
+    },
+    {
+        "emojiName": "Zombie",
+        "emojiImage": 43,
+        "available": false,
+        "isActive": false,
+        "cost": 1600
+    },
+    {
+        "emojiName": "Ghost!",
+        "emojiImage": 44,
+        "available": false,
+        "isActive": false,
+        "cost": 1650
+    },
+    {
+        "emojiName": "Hair",
+        "emojiImage": 45,
+        "available": false,
+        "isActive": false,
+        "cost": 1700
+    },
+    {
+        "emojiName": "Poop",
+        "emojiImage": 46,
+        "available": false,
+        "isActive": false,
+        "cost": 1750
+    },
+    {
+        "emojiName": "Pumpkin",
+        "emojiImage": 47,
+        "available": false,
+        "isActive": false,
+        "cost": 1800
+    },
+    {
+        "emojiName": "Music",
+        "emojiImage": 48,
+        "available": false,
+        "isActive": false,
+        "cost": 1850
+    },
+    {
+        "emojiName": "Starry Eyed",
+        "emojiImage": 49,
+        "available": false,
+        "isActive": false,
+        "cost": 1900
+    },
+    {
+        "emojiName": "Vampire",
+        "emojiImage": 50,
+        "available": false,
+        "isActive": false,
+        "cost": 1950
+    },
+    {
+        "emojiName": "Green Zombie",
+        "emojiImage": 51,
+        "available": false,
+        "isActive": false,
+        "cost": 2000
+    },
+    {
+        "emojiName": "Frankenstein",
+        "emojiImage": 52,
+        "available": false,
+        "isActive": false,
+        "cost": 2050
+    },
+    {
+        "emojiName": "Mummy",
+        "emojiImage": 53,
+        "available": false,
+        "isActive": false,
+        "cost": 2100
+    },
+    {
+        "emojiName": "Hush",
+        "emojiImage": 54,
+        "available": false,
+        "isActive": false,
+        "cost": 2150
+    },
+    {
+        "emojiName": "No Face",
+        "emojiImage": 55,
+        "available": false,
+        "isActive": false,
+        "cost": 2200
+    },
+    {
+        "emojiName": "Dizzy",
+        "emojiImage": 56,
+        "available": false,
+        "isActive": false,
+        "cost": 2250
+    },
+    {
+        "emojiName": "Clown 1",
+        "emojiImage": 57,
+        "available": false,
+        "isActive": false,
+        "cost": 2300
+    },
+    {
+        "emojiName": "Clown 2",
+        "emojiImage": 58,
+        "available": false,
+        "isActive": false,
+        "cost": 2350
+    },
+    {
+        "emojiName": "Sweat",
+        "emojiImage": 59,
+        "available": false,
+        "isActive": false,
+        "cost": 2400
+    },
+    {
+        "emojiName": "Teeth Shock",
+        "emojiImage": 60,
+        "available": false,
+        "isActive": false,
+        "cost": 2450
+    },
+    {
+        "emojiName": "In Love",
+        "emojiImage": 61,
+        "available": false,
+        "isActive": false,
+        "cost": 2500
+    },
+    {
+        "emojiName": "Super Angry",
+        "emojiImage": 62,
+        "available": false,
+        "isActive": false,
+        "cost": 2550
+    },
+    {
+        "emojiName": "Nervous Sweat",
+        "emojiImage": 63,
+        "available": false,
+        "isActive": false,
+        "cost": 2600
+    },
+    {
+        "emojiName": "Cry Laugh",
+        "emojiImage": 64,
+        "available": false,
+        "isActive": false,
+        "cost": 2650
+    },
+    {
+        "emojiName": "Old Man",
+        "emojiImage": 65,
+        "available": false,
+        "isActive": false,
+        "cost": 2700
+    },
+    {
+        "emojiName": "Baby",
+        "emojiImage": 66,
+        "available": false,
+        "isActive": false,
+        "cost": 2750
+    }
+]
+
+}
